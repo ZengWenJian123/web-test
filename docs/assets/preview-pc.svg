@@ -1,0 +1,43 @@
+﻿<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="40" y1="0" x2="1500" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07152E"/>
+      <stop offset="0.6" stop-color="#0B2B66"/>
+      <stop offset="1" stop-color="#071734"/>
+    </linearGradient>
+    <linearGradient id="frame" x1="230" y1="110" x2="1370" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#EDF5FF"/>
+    </linearGradient>
+    <linearGradient id="hero" x1="280" y1="170" x2="1320" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1766FF"/>
+      <stop offset="1" stop-color="#2D90FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <rect x="220" y="100" width="1160" height="800" rx="34" fill="url(#frame)"/>
+  <rect x="220" y="100" width="1160" height="84" rx="34" fill="#FFFFFF"/>
+  <circle cx="290" cy="142" r="18" fill="#2F6FF1"/>
+  <text x="330" y="151" fill="#173A7B" font-size="28" font-weight="700" font-family="Segoe UI, Arial, sans-serif">调解平台</text>
+  <text x="1035" y="151" fill="#5877A9" font-size="22" font-family="Segoe UI, Arial, sans-serif">首页</text>
+  <text x="1115" y="151" fill="#5877A9" font-size="22" font-family="Segoe UI, Arial, sans-serif">案件申请</text>
+  <text x="1228" y="151" fill="#5877A9" font-size="22" font-family="Segoe UI, Arial, sans-serif">关于我们</text>
+  <rect x="280" y="210" width="1040" height="270" rx="30" fill="url(#hero)"/>
+  <text x="800" y="286" text-anchor="middle" fill="#DCEBFF" font-size="22" font-family="Segoe UI, Arial, sans-serif" letter-spacing="7">DIGITAL DISPUTE RESOLUTION</text>
+  <text x="800" y="364" text-anchor="middle" fill="white" font-size="52" font-weight="700" font-family="Segoe UI, Arial, sans-serif">高效、公正、便捷的数字化调解平台</text>
+  <rect x="352" y="398" width="250" height="120" rx="24" fill="#FFFFFF"/>
+  <rect x="675" y="398" width="250" height="120" rx="24" fill="#FFFFFF"/>
+  <rect x="998" y="398" width="250" height="120" rx="24" fill="#FFFFFF"/>
+  <text x="477" y="470" text-anchor="middle" fill="#153977" font-size="24" font-weight="700" font-family="Segoe UI, Arial, sans-serif">申请调解</text>
+  <text x="800" y="470" text-anchor="middle" fill="#153977" font-size="24" font-weight="700" font-family="Segoe UI, Arial, sans-serif">成为调解员</text>
+  <text x="1123" y="470" text-anchor="middle" fill="#153977" font-size="24" font-weight="700" font-family="Segoe UI, Arial, sans-serif">查看案例</text>
+  <text x="800" y="610" text-anchor="middle" fill="#153977" font-size="34" font-weight="700" font-family="Segoe UI, Arial, sans-serif">平台优势</text>
+  <rect x="300" y="670" width="220" height="170" rx="24" fill="#F8FBFF" stroke="#D7E7FF" stroke-width="2"/>
+  <rect x="560" y="670" width="220" height="170" rx="24" fill="#F8FBFF" stroke="#D7E7FF" stroke-width="2"/>
+  <rect x="820" y="670" width="220" height="170" rx="24" fill="#F8FBFF" stroke="#D7E7FF" stroke-width="2"/>
+  <rect x="1080" y="670" width="220" height="170" rx="24" fill="#F8FBFF" stroke="#D7E7FF" stroke-width="2"/>
+  <text x="410" y="758" text-anchor="middle" fill="#173A7B" font-size="24" font-weight="700" font-family="Segoe UI, Arial, sans-serif">快速高效</text>
+  <text x="670" y="758" text-anchor="middle" fill="#173A7B" font-size="24" font-weight="700" font-family="Segoe UI, Arial, sans-serif">严格保密</text>
+  <text x="930" y="758" text-anchor="middle" fill="#173A7B" font-size="24" font-weight="700" font-family="Segoe UI, Arial, sans-serif">专业公正</text>
+  <text x="1190" y="758" text-anchor="middle" fill="#173A7B" font-size="24" font-weight="700" font-family="Segoe UI, Arial, sans-serif">全程留痕</text>
+</svg>

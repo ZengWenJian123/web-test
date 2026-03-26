@@ -1,0 +1,39 @@
+﻿<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06162F"/>
+      <stop offset="0.5" stop-color="#0A347A"/>
+      <stop offset="1" stop-color="#071B40"/>
+    </linearGradient>
+    <linearGradient id="card" x1="452" y1="140" x2="1178" y2="830" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#EAF3FF"/>
+    </linearGradient>
+    <linearGradient id="hero" x1="500" y1="150" x2="1120" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1165FF"/>
+      <stop offset="1" stop-color="#2D90FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <circle cx="250" cy="160" r="180" fill="#2C7FFF" opacity="0.18"/>
+  <circle cx="1320" cy="150" r="140" fill="#52C1FF" opacity="0.12"/>
+  <circle cx="870" cy="910" r="210" fill="#2D62FF" opacity="0.18"/>
+  <rect x="230" y="170" width="520" height="350" rx="38" transform="rotate(-8 230 170)" fill="#0C1F4A" opacity="0.7"/>
+  <rect x="470" y="120" width="660" height="760" rx="34" fill="url(#card)"/>
+  <rect x="470" y="120" width="660" height="330" rx="34" fill="url(#hero)"/>
+  <text x="800" y="210" text-anchor="middle" fill="#D9EBFF" font-size="24" font-family="Segoe UI, Arial, sans-serif" letter-spacing="8">COMMERCIAL MEDIATION</text>
+  <text x="800" y="290" text-anchor="middle" fill="white" font-size="54" font-weight="700" font-family="Segoe UI, Arial, sans-serif">商事调解服务</text>
+  <text x="800" y="350" text-anchor="middle" fill="#E8F2FF" font-size="24" font-family="Segoe UI, Arial, sans-serif">数字化争议解决入口页预览</text>
+  <rect x="535" y="400" width="245" height="180" rx="24" fill="white"/>
+  <rect x="820" y="400" width="245" height="180" rx="24" fill="white"/>
+  <rect x="620" y="438" width="76" height="76" rx="18" fill="#2F6FF1"/>
+  <rect x="905" y="438" width="76" height="76" rx="18" fill="#66B9FF"/>
+  <text x="657" y="555" text-anchor="middle" fill="#163977" font-size="26" font-weight="700" font-family="Segoe UI, Arial, sans-serif">在线申请调解</text>
+  <text x="942" y="555" text-anchor="middle" fill="#163977" font-size="26" font-weight="700" font-family="Segoe UI, Arial, sans-serif">专家咨询入口</text>
+  <rect x="655" y="635" width="290" height="64" rx="32" fill="#2F6FF1"/>
+  <text x="800" y="677" text-anchor="middle" fill="white" font-size="28" font-weight="700" font-family="Segoe UI, Arial, sans-serif">平台入口</text>
+  <rect x="570" y="740" width="460" height="98" rx="22" fill="#F8FBFF" stroke="#D7E7FF" stroke-width="2"/>
+  <rect x="602" y="764" width="50" height="50" rx="8" fill="#D8E8FF"/>
+  <rect x="680" y="770" width="220" height="14" rx="7" fill="#2C5FBD"/>
+  <rect x="680" y="798" width="170" height="12" rx="6" fill="#7EA7E8"/>
+</svg>
